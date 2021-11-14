@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/Author-ViniciusAraujo-blue.svg)](https://www.linkedin.com/in/vinicius-araujo-pd/) [![Language](https://img.shields.io/badge/Language-PowerBI-yellow.svg)](https://blogdozouza.wordpress.com/bi/microsoft/power-bi/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados)
 
-![](https://www.tuacarreira.com/wp-content/uploads/2019/09/portfolio-1200x900.jpg)
+![](https://www.agorasite.com.br/wp-content/uploads/2016/11/Portfolio-image.png)
 
 # Portfólio de Projetos - Ciência de Dados (Buscando valor em Dados)
 
