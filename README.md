@@ -2,16 +2,15 @@
 
 ![](https://www.agorasite.com.br/wp-content/uploads/2016/11/Portfolio-image.png)
 
-# Portfólio de Projetos - Ciência de Dados (Buscando valor em Dados)
+# Portfólio de Projetos - Dados (Buscando valor em Dados)
 
-Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolvendo, ao longo da minha vida acadêmica e profissional, onde busco através dos dados encontrar informações valiosas para a tomada de decisão.
-Os Projetos iniciaram com análises de dados utilizando *Business Intelligence* e hoje vem tomando um rumo mais para Inteligência Artificial com a utilização de *Machine Learning*!
+Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolvendo, ao longo da minha vida acadêmica, onde busco através dos dados encontrar informações valiosas para a tomada de decisão.
+Os Projetos iniciaram com análises de dados utilizando *Business Intelligence*.
 
 *Observação: Os dados são de fontes públicas e o objetivo dos trabalhos são testar e colocar em prática o uso de algoritmos, ferramentas e técnicas.*
 
 Aqui encontrará:
-- Projetos de BI em Tableau e Microsoft Power BI
-- Projetos de Machine Learning utilizando Python
+- Projetos de BI em Microsoft Power BI
 
 ------------
 
@@ -34,4 +33,4 @@ Aqui encontrará:
 
 ------------
 
-**Alex Souza** (*Mestre em Inteligência Artificial | MTAC*) - [Currículo Lattes](http://lattes.cnpq.br/3318149614519892) | [LinkedIn](https://www.linkedin.com/in/alex-souza/) | [Blog Técnico](https://blogdozouza.wordpress.com/) | [Kaggle](https://www.kaggle.com/aasouzaconsult/notebooks)
+**Vinicius Araújo** (*Estudando em Dados*) - [LinkedIn](https://www.linkedin.com/in/vinicius-araujo-pd/)
