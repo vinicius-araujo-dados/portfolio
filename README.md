@@ -16,7 +16,7 @@ Aqui encontrará:
 
 |    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
 | ------------        | ------------        | ------------ | ------------    |------------ |
-| **Censo Escolar 2020**| [Censo Escolar 2020](https://www.linkedin.com/pulse/censo-escolar-2020-alex-souza-msc/)| Power BI | [INEP - Censo Escolar 2020](http://inep.gov.br/) | Uma análises das escolas por tipo, número de alunos e região |
+| **Censo Escolar 2020**| [Censo Escolar 2020](https://app.powerbi.com/view?r=eyJrIjoiMTEzMWI3ZjMtMzg2My00YjcwLTk4OWQtYWMzYjQxMWIwMWZmIiwidCI6IjU0NTAzOTAyLWE2MjAtNDAyYy05YTBjLWE3ZDg5N2M2ZGZmYSJ9)| Power BI | [INEP - Censo Escolar 2020](http://inep.gov.br/) | Uma análises das escolas por tipo, número de alunos e região |
 | **Censo Escolar 2020**| [Censo Escolar 2020](https://www.linkedin.com/pulse/censo-escolar-2020-alex-souza-msc/)| Power BI | [INEP - Censo Escolar 2020](http://inep.gov.br/) | Uma análises das escolas por tipo, número de alunos e região |
 
 ------------
